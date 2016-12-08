@@ -1,5 +1,4 @@
 # DevSpace-Tasks
-=============
 
 ## About
 This is a real-life issue tracker for DevSpace. No code lives in this repository, but it's a place to keep track of things that need to get done.

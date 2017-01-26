@@ -13,6 +13,7 @@
 - Venue : ISTIC, Borj Cedria Campus
 
 # League of Legends Gaming Contest
+- Coordinator: Fares Ben Slimane
 - Date : February
 - Venue : ISTIC, Borj Cedria Campus
 
@@ -28,4 +29,5 @@
 - Date : waiting for approval
 
 # Problem solving sessions every wednesday (to discuss) 
+- Coordinator: Fares Ben Slimane
 
